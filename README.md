@@ -85,6 +85,7 @@ MRI_TumorSift
 │
 ├── Model_Building.py
 ├── Streamlit_Deployment.py
+└── README.md
 ```
 
 ---
